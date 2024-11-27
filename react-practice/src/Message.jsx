@@ -10,7 +10,7 @@ function CarName() {
       <button
         type="button"
         onClick={() => setCar("Volvo")}
-      >Volvo</button>
+      >Change to Volvo</button>
     </>
   )
 }
